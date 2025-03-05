@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @marvz-arbz
+- 👀 I’m interested in stressful projects
+- 🌱 I’m currently learning Python
+- 💞️ I love stress
+- 📫 How to reach me here?
+- 😄 Pronouns: marvz
+- ⚡ Fun fact: Commit, push, pray. Repeat.
