@@ -4,7 +4,7 @@
 - 💞️ I love stress
 - 📫 How to reach me here?
 - 😄 Pronouns: marvz
-- ⚡ Fun fact: hehehehe
+- ⚡ Fun fact: Commit, push, pray. Repeat.
 
 <!---
 marvz-arbz/marvz-arbz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
