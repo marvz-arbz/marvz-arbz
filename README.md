@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marvz-arbz
-- 👀 I’m interested in programming
+- 👀 I’m interested in stressful projects
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on my team
+- 💞️ I love stress
 - 📫 How to reach me here?
 - 😄 Pronouns: marvz
 - ⚡ Fun fact: hehehehe
