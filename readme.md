@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Svelte
 - 💞️ I love stress
 - 📫 How to reach me here?
-- 😄 Pronouns: he - llo
+- 😄 Pronouns: He - llo
 - ⚡ Fun fact: Commit, push, pray. Repeat.
